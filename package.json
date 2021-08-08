@@ -1,19 +1,19 @@
 {
-  "name": "followbot-github",
-  "description": "A python scheduler to follow/unfollow users on Github",
-  "author": "m3yevn",
-  "version": "0.0.1",
-  "funFacts": [
-    "Blazingly fast",
-    "Easy to configure",
-    "Easy to execute with Python"
-  ],
-  "badges": [],
-  "techStacks": [
-    "Python",
-    "Requests",
-    "Github API"
-  ],
-  "screenshots": [],
-  "publicUrl": "https://github.com/m3yevn/followbot-github"
+	"name": "followbot-github",
+	"description": "A python scheduler to follow/unfollow users on Github",
+	"author": "m3yevn",
+	"version": "0.0.1",
+	"funFacts": [
+		"Blazingly fast",
+		"Easy to configure",
+		"Easy to execute with Python"
+	],
+	"badges": [],
+	"techStacks": [
+		"Python",
+		"Requests",
+		"Github API"
+	],
+	"screenshots": [],
+	"publicUrl": "https://github.com/m3yevn/followbot-github"
 }
