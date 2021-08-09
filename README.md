@@ -61,13 +61,19 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Dependencies
+## How to use
 
-This project does not have dependencies
+- For Windows
+  <br>
+  <code>
+  set TOKEN=**\*Your Bearer Token** && python app.py
+  </code>
 
-## Dev Dependencies
-
-This project does not have dev dependencies
+- For Linux
+  <br>
+  <code>
+  TOKEN=**Your Bearer Token** python app.py
+  </code>
 
 <img src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif"/>
 
