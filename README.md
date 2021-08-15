@@ -21,18 +21,6 @@ https://github.com/m3yevn/followbot-github
 - Requests
 - Github API
 
-## 📸 Screenshots
-
-N.A
-
-## 📜 Scripts
-
-```sh
-N.A
-```
-
-## 🔑 Keywords
-
 ## 👾 Submit issues at
 
 Visit the repository to open bug reports and issues
